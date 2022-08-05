@@ -6,7 +6,7 @@ Resolução dos exercícios propostos.
 
 - Fundamentos:
 
-    Apresenta a linguagem Python, contando a história da linguagem e onde pode ser aplicada, o uso de operadores, a utilização de módulos, a manipulação de strings, condições simples IF e o conceito de cores no terminal.  
+   Apresenta a linguagem Python, contando a história da linguagem e onde pode ser aplicada, o uso de operadores, a utilização de módulos, a manipulação de strings, condições simples IF e o conceito de cores no terminal.  
 
     Exercícios do 1 ao 35.
 
@@ -18,6 +18,6 @@ Resolução dos exercícios propostos.
 
 - Estruturas Compostas:
 
-    Conhecendo Tuplas, listas e dicionários, utilização de funções, criações de módulos e pacotes e tratamento de erros.  
+    Conhecendo Tuplas, listas e dicionários, utilização de funções, criações de módulos e pacotes e tratamento de erros.  
 
     Exercício do 72 ao 115.
