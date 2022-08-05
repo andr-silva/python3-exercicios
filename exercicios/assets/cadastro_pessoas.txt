@@ -1,0 +1,10 @@
+Aline Souza;17;Feminino
+Luan Pimentel;25;Masculino
+Sandro Costa;22;Masculino
+Rainane Dias;20;Feminino
+Max Coutinho;13;Masculino
+Lara Montes;24;Não informado
+Aleff Moura;29;Neutro
+Mariana Lima;16;Feminino
+Lis Rocha;27;Não informado
+Emily Silva;22;Neutro
